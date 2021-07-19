@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "nodejs12-role-vx2ln4k3",
+    "name": "nodejs12-API",
+    "region": "ap-northeast-2",
+    "sharedRole": true
+  },
+  "api": {
+    "id": "xegmzz57y9"
+  }
+}
